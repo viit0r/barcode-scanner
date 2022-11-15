@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="msg_atencao">Atenção</string>
+    <string name="msg_copiado">Copiado para a área de transferência</string>
+    <string name="copiar">Copiar</string>
+    <string name="msg_escaneie">Centralize o código para efetuar a leitura</string>
+</resources>
